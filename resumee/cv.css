@@ -1,0 +1,173 @@
+.page-container{
+  display: flex;
+  
+}
+.right-column{
+  margin-left: 400px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: whitesmoke;
+  margin-top: -20px;
+  padding-left: 10px;
+  
+}
+.obj{
+  font-size: 30px;
+  margin-bottom: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #069688;
+}
+.obj-details{
+  margin-top: -20px;
+  color: #757575;
+  padding-top: 1px ;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.exp{
+  font-size: 30px;
+  margin-bottom: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #069688;
+}
+.zmdi-case{
+  margin-right: 20px;
+  color: #069688;
+}
+
+.zmdi-file-text{
+  margin-right: 20px;
+  color: #069688;
+}
+.edu{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #069688;
+}
+.description{
+  color: #757575;
+}
+.year{
+  color: white;
+  background-color: #069688; 
+  padding: 8px;
+  width: 200px;
+  text-align: center;
+  border-radius: 4px;
+}
+.left-column{
+  padding: 20px;
+  background-color: whitesmoke;
+  height: 100%;
+  position: fixed;
+  max-width: 350px;
+  margin-top: -20px;
+}
+.profile{
+  max-width: 100%;
+  min-width: 100px;
+  border-radius: 500px;
+}
+.name{
+  margin-top: -70px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #069688;
+}
+.my-details{
+  margin-top: -25px;
+  color: #757575;
+  padding-top: 1px ;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.skills-and-langs{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: smaller;
+}
+.zmdi-spinner{
+  padding-right: 10px;
+}
+.title-1{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #069688;
+}
+.zmdi-view-quilt{
+  padding-right: 10px;
+}
+.title-2{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #069688;
+}
+.strength-1{
+  color: white;
+  background-color: #069688; 
+  padding: 6px;
+  width: 540px;
+  text-align: center;
+  border-radius: 30px;
+}
+.strength-2{
+  color: white;
+  background-color: #069688; 
+  padding: 6px;
+  width: 450px;
+  text-align: center;
+  border-radius: 30px;
+}
+.strength-3{
+  color: white;
+  background-color: #069688; 
+  padding: 6px;
+  width: 200px;
+  text-align: center;
+  border-radius: 30px;
+}
+.strength-4{
+  color: white;
+  background-color: #069688; 
+  padding: 6px;
+  width: 600px;
+  text-align: center;
+  border-radius: 30px;
+}
+.strength-5{
+  color: white;
+  background-color: #069688; 
+  padding: 6px;
+  width: 420px;
+  text-align: center;
+  border-radius: 30px;
+}
+hr{
+ line-height: 20px;
+}
+.response{
+  color: #757575;
+}
+li{
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 35px;
+  color: #757575;
+}
+.container-2{
+  font-weight: bold ;
+  font-size: 26px;
+}
+.responsibilities{
+  color: #069688;
+}
+.studied{
+  color: #757575;
+  font-weight: bold;
+  font-size: 20px;
+}
+.skil{
+  color: #757575;
+}
+.lang{
+  color: #757575;
+}
